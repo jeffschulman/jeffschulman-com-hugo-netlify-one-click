@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 logo: img/js-logo.png
 contact_entries:
   - heading: Location
