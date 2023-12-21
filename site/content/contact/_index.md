@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: State College, PA
 ---
-Jeff Schulman is a dedicated professional in cybersecurity and technology education whose efforts, while significant, are just one contribution among many in the vast and ever-evolving domain of digital security. Humility guides his approach, as he views his accomplishments not as personal triumphs but as collective advancements in the quest for a safer and more secure technological landscape.
+Jeff Schulman is a dedicated professional in cybersecurity and technology education whose efforts, while significant, are just one contribution among many in the vast and ever-evolving domain of digital security. Inquiry and service guide his approach, as he views his accomplishments not as personal triumphs but as collective advancements in the quest for growth and prosperity.
 
 
 ## A Collaborative Force in Cybersecurity
